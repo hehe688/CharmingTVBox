@@ -9,7 +9,7 @@ A cross-platform IPTV player built with Flutter, featuring EPG integration, mult
 - **M3U Playlist Support**: Import playlists from local files, online URLs, or text content
 - **Electronic Program Guide (EPG)**: XMLTV EPG integration with daily automatic updates
 - **Multiple Player Engines**:
-  - MediaKit
+  - MPV
   - VLC
   - Shaka Player
 - **Decryption Support**: External decryptor implementation for decrypting Clearkey-protected streams
